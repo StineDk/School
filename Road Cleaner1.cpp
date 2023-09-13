@@ -7,8 +7,8 @@ int main()
 {
     float StartPris, Skrab;
     StartPris = 750.;
-    float Klip = 50. / 100.;
     Skrab = 100. / 100.;
+    float Klip = 50. / 100.;
     float Meter; 
     float Klipning;
     float Skrabning;
